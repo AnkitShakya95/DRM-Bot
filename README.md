@@ -4,7 +4,7 @@
 
 ## Deploy To Render                  
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AnkitShakya95/DRM-Bot-2.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AnkitShakya95/DRM-Bot.git)
 
 
 ## Deploy To Cloud Shell Editor
