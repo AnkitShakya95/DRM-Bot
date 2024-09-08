@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Ankit Shakya Txt Bot
+    name: Ankit Shakya Bot
     plan: free
     env: docker
     dockerfilePath: Dockerfile
