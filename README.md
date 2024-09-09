@@ -15,6 +15,13 @@
 ## How to Deploy? 🤔. you can deploy over Heroku or your VPS too.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NARUJAT/DRM-Bot-2)
 
+## Deploy To Google Colab
+
+<a href="https://colab.research.google.com/github/AnkitShakya95/DRM-Bot-2/blob/main/DRM-Bot-2" target="_blank">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+</a>
+
+
 ## COMMANDS
 ### AVAILABLE COMMANDS 
 ```
