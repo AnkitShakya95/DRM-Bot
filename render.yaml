@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/AnkitShakya95/DRM-Bot.git-for-render
+    repo: https://github.com/NARUJAT/DRM-Bot-2.git-for-render
     branch: main
     autoDeploy: false
     envVars:
