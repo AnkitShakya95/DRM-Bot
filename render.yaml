@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Ankit Shakya Bot
+    name: Text Leech Bot
     plan: free
     env: docker
     dockerfilePath: Dockerfile
@@ -17,4 +17,4 @@ services:
       - key: WEBHOOK
         sync: false
       - key: PORT
-        sync: false  # Default port value, update if needed￼Enter
+        value: 8000  # Default port value, update if needed
