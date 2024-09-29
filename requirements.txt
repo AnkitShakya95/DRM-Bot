@@ -1,7 +1,6 @@
-pyrogram==2.0.106
+pyrofork==2.0.106
 tgcrypto
 requests
-pyromod
 aiohttp
 aiofiles
 asyncio
