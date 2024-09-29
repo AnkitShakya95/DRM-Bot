@@ -6,7 +6,6 @@ from pyrogram.types import ChatMember
 import asyncio
 import logging
 import tgcrypto
-from pyromod import listen
 import logging
 from tglogging import TelegramLogHandler
 
